@@ -4,7 +4,7 @@ meta:
     name: pip
     version: 3.12
 build:
-  requirementsPath: smorrebrod/requirements.txt
+  requirementsPath: requirements.txt
 run:
   scriptName: rune.py
   persistenceMount: /data
